@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Globamilau/Nimilau grammar and dictionary</title>
+	<style type="text/css">
+		.redtext {
+			color: red;
+		}
+		.dictlemma{
+			font-weight: bold;
+		}
+		
+	</style>
+</head>
+<body>
+	<table id="dictionary">
+		
+	</table>
+
+	<script type="text/javascript" src="jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+		$.ajaxSetup({
+			beforeSend: function(xhr){
+				if (xhr.overrideMimeType)
+					xhr.overrideMimeType("application/json");
+			},
+			error:function() { alert("error");  }
+		});
+
+		var lex;
+
+		$().ready(function(){
+
+			$.getJSON( "lexicon.json", function( data ) {
+				lex = data;
+				onLoadLexicon();
+			});
+
+
+		});
+
+
+
+		function onLoadLexicon(){
+
+
+			for(let w of Object.keys(lex).sort()){
+				let ndiv = $('<tr class="dictentry"></tr>');
+				let lemm = $('<td class="dictlemma"></td>');
+				let def = $('<td class="dictdefinition"></td>');
+				lemm.text(w);
+				let formattedDef = lex[w].replace(/(\(UNC\).*)$/,'<span class="redtext">$1<span>');
+				def.html(formattedDef);
+
+				lemm.appendTo(ndiv);
+				def.appendTo(ndiv);
+				ndiv.appendTo($("#dictionary"));
+			}
+		}
+	</script>
+
+</body>
+</html>

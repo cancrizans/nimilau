@@ -1,0 +1,1 @@
+pandoc index.md -f markdown -t html --css style.css -s -o index.html
