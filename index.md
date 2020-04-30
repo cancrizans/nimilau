@@ -1,5 +1,5 @@
 ---
-title: Nimilau: jiximak'o Grammaro a Slovolisto
+title: Nimilau - jiximak'o Grammaro a Slovolisto
 ...
 
 Salo! Mi cancrizans es. Eta dokument es un pisatio Eurodialectu'o Nimilau'o. Eta es por **jiximak** (mak jixi => ditactici) - to eta trekali milau nova mujinakak kan idu jixi **facile**.
@@ -145,7 +145,7 @@ A slovo "idu" ("andare, aller, ir") es un verbo auxiliar mita kan us tik por "fu
 "ne" marco negativ por omni frasa. Kan "ne" us agglutinativ por mak inversiu. Esemplia:
 
 * neyaomik ~ ne yao mi(k) -> "no me gusta"
-* nescio = ne scio
+* nejixi = ne jixi
 * nemit = "senza, sine"
 * nenovo = "vecchio, viejo"
 
