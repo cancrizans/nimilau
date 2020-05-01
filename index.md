@@ -128,11 +128,11 @@ Subjecto **a** objecto mita es un pronomo kan verbozai aglutino. Eta es sole zai
 
 Verbo'o **xia** ("tempo, tiempo") marco tik mit adverba:
 
-adverbo		xia
--------		-------
-var 		varxia ("passato")
-c'to 		eta xia ("presente")
-sir 		sirxia ("futuro")
+adverbo			verboxia
+-------			-------
+var (nar) 		varxia ("passato")
+c'to 			eta xia ("presente")
+sir 			sirxia ("futuro")
 
 A slovo "idu" ("andare, aller, ir") es un verbo auxiliar mita kan us tik por "futuro prossimo" u por intentu. Esempiu:
 
@@ -161,6 +161,26 @@ Nimilauzai, us un "dublo objecto": [R] a [T] es dua objecta verbo'o "dan".
 To, ne debe ten un "dativ" o propositiu por [R]. Trefacili!
 
 
+## Copula
+
+Copula es verbo "es" (rare: "estas", "estan"). Copula us morfologo a sintacto un verbo'o intransitiv:
+
+* esmi leul <- da
+* esmik leul <- ne ne!
+
+Copula anki kan us nemit "es" (**serocopula**):
+
+* mi leul / leul mi / leulmi
+
+maar eta idu es raro, votixia. Si serocopula mit verboxia, xia'o adverbo kan myotik como un novo copula:
+
+* mi vares leul  ---(serocopula)---> mi var leul ("var" ~~ "var es")
+
+Copula ten telos contractia:
+
+* "ne es" -> "nees" -> "nes"
+
+
 ## Morfologo
 
 Nimilau ten oki morfologo por derivar. 
@@ -177,4 +197,4 @@ Certe speciali frasa pisat siak nemit " "a: "kaligbe", "kalidyauti", etc.
 
 # Slovolisto
 
-Nes c'to! Suldo si mik tradur ogar anglisamilau utra milauazai! Suman.
+Nes c'to! Suldo si mik tradur ogar anglomilau utra milauazai! Suman.
