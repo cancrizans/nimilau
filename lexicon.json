@@ -19,7 +19,7 @@
 	},
 	"i":{
 		"var":"u",
-		"tags":["NEC"]
+		"tags":["RA"]
 	},
 	"burger":{
 		"it":"burger, hamburger",
@@ -91,7 +91,8 @@
 		"it":"letto"
 	},
 	"baza":{
-		"it":"ape"
+		"it":"ape",
+		"em":"🐝"
 	},
 	
 	"slovo":{
@@ -107,7 +108,7 @@
 		"es":"hablar, dir"
 	},
 	"milau":{
-		"it":"lingua",
+		"it":"linguaggio",
 		"es":"idioma"
 	},
 	"milava":{
@@ -115,6 +116,15 @@
 	},
 	"mita":{
 		"it":"che, il/la quale, pronome relativo e interrogativo, e anche congiunzione per domande"
+	},
+	"mit":{
+		"it":"con",
+		"es":"con"
+	},
+
+	"nemit":{
+		"it":"senza",
+		"es":"sin"
 	},
 	"eta":{
 		"it":"questo, questo qui, il/la"
@@ -211,9 +221,13 @@
 	},
 
 	"omo":"(UNC) person, human",
-	"plus":{
+	"plu":{
 		"it":"più, di più",
 		"es":"más"
+	},
+
+	"pluo":{
+		"it":"aggiungere"
 	},
 	
 	"xia":{
@@ -314,7 +328,7 @@
 	},
 	"est":{
 		"var":"es",
-		"tags":["NEC"]
+		"tags":["RA"]
 	},
 	
 	"muxi":{
@@ -567,6 +581,23 @@
 		"it":"dimenticare",
 		"es":"olvidar"
 	},
+	"noz":{
+		"it":"noce, castagna",
+		"em":"🌰"
+	},
+	"vodanoz":{
+		"it":"noce di cocco",
+		"em":"🥥"
+	},
+
+	"vodanozarbo":{
+		"it":"palma",
+		"es":"palmera"
+	},
+	"vodaguo":{
+		"it":"anguria",
+		"em":"🍉"
+	},
 	"jiximak":{
 		"it":"imparare, insegnare",
 		"es":"aprender, enseñar"
@@ -701,5 +732,10 @@
 	"caso":{
 		"it":"caso",
 		"es":"caso"
+	},
+	"krou":{
+		"it":"sangue",
+		"es":"sangre",
+		"em":"🩸"
 	}
 }
