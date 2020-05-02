@@ -197,4 +197,100 @@ Certe speciali frasa pisat siak nemit " "a: "kaligbe", "kalidyauti", etc.
 
 # Slovolisto
 
-Nes c'to! Suldo si mik tradur ogar anglomilau utra milauazai! Suman.
+* RA = slovo raro, c'to us netrexia.
+* AS = slovo plu Asiadialectu'k us.
+* GB = slovo ogar Globasa.
+
+
+<table id="slovolistotabla"></table>
+<script src="https://code.jquery.com/jquery-3.5.0.min.js" integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" crossorigin="anonymous"></script>
+<script type="text/javascript">
+	
+	$.ajaxSetup({
+		beforeSend: function(xhr){
+			if (xhr.overrideMimeType)
+				xhr.overrideMimeType("application/json");
+		},
+		error:function() { alert("error");  }
+	});
+
+	var lex;
+
+	$().ready(function(){
+
+		$.getJSON( "lexicon.json", function( data ) {
+			lex = data;
+			onLoadLexicon();
+		});
+
+
+	});
+
+
+	const milaua = {
+		"it":"Italomilau",
+		"es":"Espanyomilau",
+		"em":"Emoji"
+	};
+
+	var milauacodes = Object.keys(milaua);
+
+
+
+	var milauanumer = milauacodes.length;
+
+	function onLoadLexicon(){
+
+		let header = $('<tr></tr>');
+		header.append("<th>Nimilau</th>");
+		for(let c of milauacodes)
+			header.append($(`<th>${milaua[c]}</th>`));
+
+		$("#slovolistotabla").append(header);
+
+		for(let w of Object.keys(lex).sort()){
+			let data = lex[w];
+
+			if(typeof data === "string")
+				continue;
+
+
+			let ndiv = $('<tr class="dictentry"></tr>');
+			let lemm = $('<td class="dictlemma"></td>');
+
+			
+			let lemma = w.trim();
+			if("tags" in data)
+				lemma += " ("+ data.tags.join(", ")+")";
+
+			lemm.text(lemma);
+			lemm.appendTo(ndiv);
+
+
+
+
+
+			if("var" in data){
+				ndiv.append($(`<td class="dicttrans dictvariant" colspan="${milauanumer}">formo varianti <em>${data.var}</em>'o</div>`));
+			}
+
+			else
+			{
+
+				for(let c of milauacodes){
+					let transl = "";
+
+					if(c in data){
+						transl = data[c];
+					}
+					ndiv.append($(`<td class="dicttrans">${transl}</div>`));
+					
+				}
+
+			}
+			
+			ndiv.appendTo($("#slovolistotabla"));
+		}
+	}
+
+</script>

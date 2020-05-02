@@ -26,3 +26,25 @@ h1,h2,h3,h4,h5,h6{
     font-family: 'Merriweather', serif;
 
 }
+
+#slovolistotabla{
+	 border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.dictlemma{
+	font-weight: bold;
+	
+}
+
+.dicttrans{
+	max-width: 13em;
+	
+}
+
+.dictvariant {
+	text-align: center;
+}

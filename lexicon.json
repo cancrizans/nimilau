@@ -1,175 +1,705 @@
 {
-	"mi":"I (1st person singular)",
-	"ti":"you (2nd person singular)",
-	"si":"he/she/it (3rd person singular)",
-	"a":"and",
-	"u":"or",
-	"i":"(UNC) or",
-	"burger":"burger, hamburger",
-	"taber":"to eat",
-	"taberu":"mouth",
-	"fikir":"to think, to believe",
-	"fikiru":"brain",
-	"yao":"to love",
-	"yau":"heart, (UNC) to love",
-	"wawau":"to laugh, laughter",
-	"ne":"not",
-	"iko":"large",
-	"niko":"small",
+	"mi":{
+		"it":"Io/mi/me (1a persona singolare)"
+	},
+	"ti":{
+		"it":"tu/te/ti (2a persona singolare)"
+	},
+	"si":{
+		"it":"lui/lei/esso/lo/la/le (3a persona singolare)"
+	},
+
+	"a":{
+		"it":"e",
+		"es":"y"
+	},
+	"u":{
+		"it":"o, oppure",
+		"es":"o"
+	},
+	"i":{
+		"var":"u",
+		"tags":["NEC"]
+	},
+	"burger":{
+		"it":"burger, hamburger",
+		"es":"hamburguesa",
+		"em":"🍔"
+	},
+	"taber":{
+		"it":"mangiare"
+	},
+	"taberu":{
+		"it":"bocca",
+		"es":"boca"
+	},
+	"taberu ":{
+		"var":"taber",
+		"tags":["RA"]
+	},
+	"fikir":{
+		"it":"pensare, credere",
+		"es":"pensar, creer"
+	},
+	"fikr":{
+		"var":"fikir"
+	},
+	"fikiru":{
+		"it":"cervello",
+		"es":"cerebro",
+		"em":"🧠"
+	},
+	"yao":{
+		"it":"amare, apprezzare",
+		"es":"amar, gustar"
+	},
+	"yau":{
+		"it":"cuore",
+		"es":"corazón"
+	},
+	"wawau":{
+		"it":"ridere, risata",
+		"es":"reír, risa"
+	},
+	"ne":{
+		"it":"no, non"
+	},
+	"iko":{
+		"it":"grande, largo, molto",
+		"es":"gran"
+	},
+	"niko":{
+		"it":"piccolo",
+		"es":"pequeño"
+	},
+
 	"drinken":"(UNC) to drink (getting replaced by taber)",
-	"zai":"in, inside",
-	"gbe":"(UNC) where, from where (mostly interrogative)",
-	"c'to":"now",
-	"sto":"now",
-	"slapen":"to sleep",
-	"slapenu":"bed",
-	"baza":"bee(s)",
-	"-a":"marks plural mostly, may replace or add to final vowel",
-	"-e":"creates 'mente'-style adverbs, (UNC) plural for -a ending words",
-	"slovo":"word",
-	"solvo":"(UNC) alt spelling of 'slovo'",
-	"milao":"to speak, to say, (UNC) to mean, to signify",
-	"milau":"language",
-	"mita":"that (interrogative pronoun, demonstrative pronoun, conjunction for relative clauses)",
-	"eta":"this, the",
-	"yabloko":"apple",
-	"-u":"noun from verb, generally tool to perform the action",
-	"voda":"water",
-	"bazavoda":"honey",
-	"casa":"home, house",
-	"kali":"good, nice, beautiful, especially as prefix (kalimorno, kalidyau)",
-	"bono":"good, nice, ok",
-	"tre":"very",
-	"morno":"morning",
-	"dyau":"day",
-	"salo":"hi, hello",
-	"adios":"goodbye",
-	"ni":"we (me + you) (inclusive plural first person)",
-	"vi":"(UNC) you all (plural second person)",
-	"tia":"(UNC) you all (plural second person)",
-	"-o":"(UNC) possessive prefix for pronouns",
-	"uwa":"earth, ground",
-	"hawa":"sky",
-	"mujina":"man (male) (UNC) person",
+	"zai":{
+		"it":"in, dentro a, durante, "
+	},
+
+	"c'to":{
+		"it":"ora, adesso",
+		"es":"ahora"
+	},
+
+	"slapen":{
+		"it":"dormire",
+		"es":"dormir"
+	},
+	"slapenu":{
+		"it":"letto"
+	},
+	"baza":{
+		"it":"ape"
+	},
+	
+	"slovo":{
+		"it":"parola",
+		"es":"palabra"
+	},
+	"solvo":{
+		"var":"slovo"
+	},
+
+	"milao":{
+		"it":"parlare, dire",
+		"es":"hablar, dir"
+	},
+	"milau":{
+		"it":"lingua",
+		"es":"idioma"
+	},
+	"milava":{
+		"it":"cosa detta, discorso, frase"
+	},
+	"mita":{
+		"it":"che, il/la quale, pronome relativo e interrogativo, e anche congiunzione per domande"
+	},
+	"eta":{
+		"it":"questo, questo qui, il/la"
+	},
+	"yabloko":{
+		"it":"mela"
+	},
+	
+	"voda":{
+		"it":"acqua",
+		"es":"agua"
+	},
+	"bazavoda":{
+		"it":"miele",
+		"es":"miel"
+	},
+	"casa":{
+		"it":"casa",
+		"es":"casa"
+	},
+	"kali":{
+		"it":"bello, buono",
+		"es":"hermoso, lindo"
+	},
+
+	"kalidyau":{
+		"it":"buongiorno"
+	},
+
+	"kalymorno":{
+		"it":"buona mattina"
+	},
+	"kalynoide":{
+		"it":"buonanotte"
+	},
+	"dobro":{
+		"it":"buono, ok",
+		"es":"bueno, ok"
+	},
+	"bono":{
+		"var":"dobro"
+	},
+	"tre":{
+		"it":"molto",
+		"es":"muy"
+	},
+	"morno":{
+		"it":"mattino"
+	},
+	"dyau":{
+		"it":"giorno",
+		"es":"día"
+	},
+	"salo":{
+		"it":"ciao",
+		"es":"hola"
+	},
+	"etadyau":{
+		"it":"oggi",
+		"es":"hoy"
+	},
+	"weda":{
+		"it":"ciao (per andarsene)",
+		"es":"adiós"
+	},
+	"weida":{
+		"var":"weda"
+	},
+	"adios":{
+		"var":"weda"
+	},
+	"ni":{
+		"it":"noi/ne/ci (1a pers. pl.)",
+		"es":"nosotros (1a pers. pl.)"
+	},
+
+	"vi":{
+		"it":"voi/ve/vi (2a pers. pl.)",
+		"es":"vosotros (2a pers. pl.)"
+	},
+
+
+
+	"uwa":{
+		"it":"terra, terreno, pianeta terra",
+		"es":"tierra"
+	},
+	"hawa":{
+		"it":"cielo",
+		"es":"ciel"
+	},
+	"mujina":{
+		"it":"persona"
+	},
+
 	"omo":"(UNC) person, human",
-	"plus":"(UNC) more",
-	"xianzai":"time",
-	"var":"past marker",
-	"va":"(DEAD) to go, immediate future marker",
-	"xukra":"thank you, thanks",
-	"nukta":"(UNC) night",
-	"kiel":"why?",
-	"ogar":"from",
-	"omni":"all",
-	"lexico":"lexicon, (UNC) word",
-	"diffe":"(UNC) to differ, different",
-	"diau":"(UNC) alt spelling of 'dyau'",
-	"homo":"(UNC) person, human",
-	"us":"to use",
-	"glossa":"(UNC) language, word",
-	"sia":"(UNC) 3rd person plural",
-	"sie":"(UNC) 3rd person plural",
-	"omnomo":"(UNC) everyone",
-	"slepen":"(UNC) alt spelling of 'slapen'",
-	"estas":"(UNC) to be (copula), getting replaced by 'es' or deleted",
-	"es":"to be (copula), often deleted",
-	"ex'x":"(UNC) to be (copula), transitional form, probably dying",
-	"un":"one",
-	"du":"two",
-	"tri":"three",
-	"est":"(UNC) to be (copula), some speakers only",
-	"vorto":"(UNC) word, may be getting replaced by 'solvo'",
-	"mushi":"insect",
-	"omni xianzai":"always",
-	"leul":"slow",
-	"leule":"slowly",
+	"plus":{
+		"it":"più, di più",
+		"es":"más"
+	},
+	
+	"xia":{
+		"it":"tempo",
+		"es":"tiempo"
+	},
+
+
+
+	"var":{
+		"it":"precedente, prima di, indica tempo passato"
+	},
+
+	"varxia":{
+		"it":"prima (nel tempo)"
+	},
+	
+	"xukra":{
+		"it":"grazie",
+		"es":"gracias"
+	},
+	"noide":{
+		"it":"notte",
+		"es":"noche"
+	},
+	"noyde":{
+		"var": "noite"
+	},
+	"nukta":{
+		"var": "noite"
+	},
+	"kiel":{
+		"it":"perché?",
+		"es":"porque?"
+	},
+	"ogar":{
+		"it":"da, da dove, origine (ablativo)",
+		"es":"de donde"
+	},
+	"oni":{
+		"it":"tutto, tutti",
+		"es":"todos"
+	},
+	"omni":{
+		"var":"oni"
+	},
+	"slovolisto":{
+		"it":"dizionario",
+		"es":"diccionario"
+	},
+	
+	"diau":{
+		"var":"dyau"
+	},
+	
+	"us":{
+		"it":"usare, fare uso di"
+	},
+
+	"glossa":{
+		"var":"milau"
+	},
+	"sia":{
+		"it":"essi/esse/loro (3a pers.pl.)"
+	},
+	"sie":{
+		"var":"sia"
+	},
+	
+	"slepen":{
+		"var":"slapen"
+	},
+	"estas":{
+		"var":"es"
+	},
+	"estan":{
+		"var":"es"
+	},
+	"estar":{
+		"var":"es"
+	},
+	"es":{
+		"it":"essere (copula)"
+	},
+	
+	"un":{
+		"it":"uno (1), un, una"
+	},
+	"dua":{
+		"it":"due (2)",
+		"es":"dos (2)"
+	},
+	"du":{
+		"var":"dua"
+	},
+	"tri":{
+		"it":"tre (3)"
+	},
+	"est":{
+		"var":"es",
+		"tags":["NEC"]
+	},
+	
+	"muxi":{
+		"it":"insetto"
+	},
+	"omni xianzai":{
+		"var":"onxia"
+	},
+	"onxia":{
+		"it":"sempre",
+		"es":"siempre"
+	},
+	"leul":{
+		"it":"lento",
+		"es":"lento"
+	},
+	"leule":{
+		"it":"lentamente, piano",
+		"es":"despacio"
+	},
+
+	"spidi":{
+		"it":"veloce, rapido"
+	},
+
+	"spide":{
+		"it":"velocemente"
+	},
+
 	"ruka":"hand (UNC) plural is unclear...",
-	"tori":"bird",
-	"koku":"king",
-	"pisat":"to write",
-	"pisatu":"pencil",
-	"maar":"but",
-	"sibo":"(UNC) to write",
-	"danke":"(UNC) thanks",
-	"scio":"know",
-	"scii":"(UNC) alt spelling of 'scio'",
-	"nescio":"not know",
-	"comprend":"understand",
-	"stento":"understand, (UNC) know?",
-	"wo":"(AS) I (first person singular)",
-	"wollen":"want",
-	"suman":"sorry",
-	"we":"want",
-	"sir":"to go, future marker",
-	"sibo":"(UNC) to write (dialectal?)",
-	"lawa":"old",
-	"ober":"variant of 'ogar'",
-	"oinko":"pig",
-	"mumu":"cow",
-	"mumuvoda":"milk",
-	"treda":"(UNC) strong yes",
-	"gusta":"to like",
-	"yappe":"dog",
-	"ikoyappe":"wolf",
-	"bwaw":"dog",
-	"myaw":"(GB) PURGE cat",
-	"myau":"(GB) PURGE cat",
-	"miaw":"(GB) PURGE cat",
-	"maci":"fish",
-	"nar":"(UNC) variant of 'var' (older)",
-	"anki":"also, too",
-	"dobro":"ok",
-	"ok":"ok",
-	"kak":"(UNC) interrogative particle for yes/no questions",
-	"us":"use",
-	"ò":"of, belonging to (UNC) postposition for possessed case",
-	"slovolisto":"(UNC) dictionary",
-	"dan":"give",
-	"mak":"create, make",
-	"xiwu":"food",
-	"epo":"(UNC) thanks",
-	"agori":"firend",
-	"amiko":"friend",
-	"myo":"see, auxiliary for try to, attempt",
-	"myu":"eye",
-	"-k":"(UNC) ERG marker",
-	"-m":"(UNC) ACC marker",
-	"weda":"goodbye",
-	"idu":"go away, leave, near future auxiliary",
-	"shim":"to die, to kill",
-	"shimu":"death",
-	"shimi":"dead",
-	"jixi":"know",
-	"mito":"ask",
-	"vot":"here",
+	"tori":{
+		"it":"uccello",
+		"es":"pájaro",
+		"em":"🐦",
+		"tags":["GB"]
+	},
+	"koku":{
+		"it":"re",
+		"es":"rey"
+	},
+	"pisat":{
+		"it":"scrivere",
+		"es":"escrivir"
+	},
+	"pisatu":{
+		"it":"matita",
+		"es":"lapis"
+	},
+	"pisatva":{
+		"it":"documento, scrittura, frase scritta",
+		"es":"documento, escritura"
+	},
+	"maar":{
+		"it":"ma, invece",
+		"es":"pero"
+	},
+	
+	"kan":{
+		"it":"potere (verbo)",
+		"es":"poder"
+	},
+
+	"kann":{
+		"var":"kan"
+	},
+
+	"kannes":{
+		"var":"kan es"
+	},
+	
+	"scio":{
+		"var":"jixi"
+	},
+	
+	"nescio":{
+		"var":"nejixi"
+	},
+
+	"nejixi":{
+		"it":"non sapere, ignorare",
+		"es":"ne saber"
+	},
+
+	"stento":{
+		"it":"capire, comprendere",
+		"es":"entender"
+	},
+
+
+	"comprend":{
+		"var":"stento"
+	},
+	
+
+	"wo":{
+		"var":"mi",
+		"tags":["AS"]
+	},
+	"wollen":{
+		"it":"volere",
+		"es":"voler"
+	},
+	"suman":{
+		"it":"scusa",
+		"es":"lo siento"
+	},
+	"we":{
+		"var":"wollen",
+		"tags":["RA"]
+	},
+	"sir":{
+		"it":"successivo, prossimo, indica il futuro"
+	},
+	
+	"lawa":{
+		"it":"vecchio",
+		"es":"viejo",
+		"tags":["GB"]
+	},
+	"ober":{
+		"var":"ogar"
+	},
+	"oinko":{
+		"it":"maiale"
+	},
+	"mumu":{
+		"it":"mucca",
+		"es":"vaca",
+		"em":"🐄"
+	},
+	"mumuvoda":{
+		"it":"latte",
+		"es":"leche",
+		"em":"🥛"
+	},
+	"treda":{
+		"it":"assolutamente sì"
+	},
+	"da":{
+		"it":"sì"
+	},
+
+
+	"gusta":{
+		"var":"yao"
+	},
+	"yappe":{
+		"it":"cane"
+	},
+	"buau":{
+		"var":"yappe",
+		"tags":["AS","GB"]
+	},
+	"ikoyappe":{
+		"it":"lupo",
+		"es":"lobo",
+		"tags":["RA"]
+	},
+	
+	"myau":{
+		"var":"mau",
+		"tags":["AS","GB"]
+	},
+	"mau":{
+		"it":"gatto",
+		"es":"gato"
+	},
+
+	"maci":{
+		"it":"pesce"
+	},
+	"nar":{
+		"var":"var",
+		"tags":["RA"]
+	},
+	"anki":{
+		"it":"anche, pure",
+		"es":"también"
+	},
+	"dobro":{
+		"it":"buono, ok",
+		"es":"bueno, ok"
+	},
+	"ok":{
+		"it":"ok",
+		"es":"ok"
+	},
+	"kak":{
+		"it":"particella interrogativa per domande sì/no"
+	},
+	
+	
+	
+	"dan":{
+		"it":"dare, donare, fornire",
+		"es":"dar"
+	},
+	"mak":{
+		"it":"creare, costruire, produrre, fare (anche come causativo 'far fare')",
+		"es":"crear, far, hacer"
+	},
+	"xiwu":{
+		"it":"cibo"
+	},
+	"epo":{
+		"var":"xukra"
+	},
+	"agori":{
+		"it":"amico",
+		"es":"amigo"
+	},
+	
+	"myo":{
+		"it":"vedere, provare a, cercare",
+		"es":"ver, intentar de, buscar"
+	},
+
+	"myu":{
+		"it":"occhio",
+		"es":"ojo"
+	},
+	
+	"idu":{
+		"it":"andare, andarsene, ausiliario per futuro prossimo",
+		"es":"ir, auxiliar por futuro proximo"
+	},
+
+	"xim":{
+		"it":"morire, uccidere",
+		"es":"morir, matar"
+	},
+	"xim":{
+		"var":"ximu",
+		"tags":["RA"]
+	},
+	"ximu":{
+		"it":"morte",
+		"es":"muerte"
+	},
+	"ximi":{
+		"it":"morto",
+		"es":"muerto"
+	},
+
+	"jixi":{
+		"it":"sapere, conoscere",
+		"es":"saber, conocer"
+	},
+	"forgo":{
+		"it":"dimenticare",
+		"es":"olvidar"
+	},
+	"jiximak":{
+		"it":"imparare, insegnare",
+		"es":"aprender, enseñar"
+	},
+	"mito":{
+		"it":"chiedere, domandare",
+		"es":"preguntar"
+	},
+	"mita":{
+		"it":"domanda",
+		"es":"pregunta"
+	},
+	"vot":{
+		"it":"qui",
+		"es":"aqui"
+	},
+	"voti":{
+		"it":"vicino",
+		"es":"cercano"
+	},
 	"sole":"(UNC) only (adverb)",
-	"nevot":"over there",
-	"fampeok":"confused",
-	"mafu":"(AS) sorry",
-	"emotiu":"emotion",
-	"keyi":"(AS) can",
-	"ei":"(AS) un",
+	"nevot":{
+		"it":"là"
+	},
+
+	"nevoti":{
+		"it":"lontano",
+		"es":"lejano"
+	},
+	"fampeok":{
+		"it":"confuso, confondibile",
+		"es":"confus, confundible"
+	},
+	
+	"mafu":{
+		"var":"suman",
+		"tags":["AS"]
+	},
+	"emotiu":{
+		"it":"emozione",
+		"es":"emoción"
+	},
+	"keyi":{
+		"var":"kan",
+		"tags":["AS"]
+	},
+	"ei":{
+		"var":"un",
+		"tags":["AS"]
+	},
+	"nuyen":{
+		"it":"donna",
+		"es":"mujer"
+	},
 	"nu'omo":"(AS) woman",
-	"wanji":"(AS) not know",
-	"aki":"(AS) here",
-	"asoko":"(AS) over there",
-	"debe":"to need, to must",
-	"maru":"circle",
-	"semia":"family",
-	"aila":"fire",
-	"arbo":"tree",
-	"pona":"like, love",
-	"ar":"air",
-	"gadu":"cake",
-	"i":"(UNC) one, or",
-	"noide":"night",
-	"ai":"(UNC) love, like",
-	"onxia":"always",
-	"trexia":"often",
-	"utraxia":"again",
-	"nuyen":"woman",
-	"mau":"cat",
-	"suldo":"should",
-	"teloscaso":"anyway, in any case",
-	"caso":"case"
+	"wanji":{
+		"var":"nejixi",
+		"tags":["AS"]
+	},
+	"aki":{
+		"var":"vot",
+		"tags":["RA","AS"]
+	},
+	"asoko":{
+		"var":"nevot",
+		"tags":["AS"]
+	},
+	"debe":{
+		"var":"suldo"
+
+	},
+	"maru":{
+		"it":"cerchio",
+		"es":"circulo"
+	},
+	"semia":{
+		"it":"famiglia",
+		"es":"familia"
+	},
+	"aila":{
+		"it":"fuoco, bruciare, dare fuoco",
+		"es":"fuego, arder",
+		"em":"🔥"
+	},
+	"arbo":{
+		"it":"albero",
+		"es":"árbol",
+		"em":"🌳"
+	},
+	"pona":{
+		"var":"yao",
+		"tags":["AS"]
+	},
+	"ar":{
+		"it":"aria",
+		"es":"aire"
+	},
+	"gadu":{
+		"it":"torta",
+		"es":"pastel, tarta"
+	},
+	
+
+	
+	"ai":{
+		"var":"yao",
+		"tags":["RA","AS"]
+	},
+	
+	"trexia":{
+		"it":"spesso",
+		"es":"a menudo"
+	},
+	"utraxia":{
+		"it":"ancora, un'altra volta, di nuovo",
+		"es":"de nuevo"
+	},
+	
+	
+	"suldo":{
+		"it":"dovere, aver bisogno di",
+		"es":"deber, necesitar"
+	},
+	"telos":{
+		"it":"alcuni, qualche di",
+		"es":"algunos"
+	},
+	"teloscaso":{
+		"it":"in ogni caso",
+		"es":"en cualquier caso"
+	},
+	"caso":{
+		"it":"caso",
+		"es":"caso"
+	}
 }
