@@ -2,9 +2,18 @@
 title: Nimilau - jiximak'o Grammaro a Slovolisto
 ...
 
-Salo! Mi cancrizans es. Eta dokument es un pisatio Eurodialectu'o Nimilau'o. Eta es por **jiximak** (mak jixi => ditactici) - to eta trekali milau nova mujinakak kan idu jixi **facile**.
+Salo! Mi cancrizans es. Eta pisatva es por Eurodialectu Nimilau'o. Eta es por **jiximak** (mak jixi => ditactici) - to eta trekali milau nova mujinakak kan idu jixi **facile**.
 
 Eta es sole por Nimilau'o Eurodialectu, a noki numer'o influentia asiadialecto'o si'zai. A, eta dokument es **sole observi, ne por prescrivo**.
+
+## Nimilau? Mita?
+
+**Nimilau** (nomen sio anki **Milauni'o**, **Glossani**, **Globamilau**) es un milau mujinamakva (*conlang*) mita varmak zai un Discord'o server. Si varmak como un Pijin: mujinaka ogar nemesma gua var prohibo anglomilau milao'o, a myosiak si milao zai un novo milau.
+
+Vares un'o'xia un **lawadialectu**, mita vares tre influento ogar mujinamakvamilau auxiliar (*auxlang*) "Globasa". Ogar eta, vares un **eurodialectu**, mita trepluspide var evolvo a var nepluo lexico ogar Globasa, a vares influento plu ogar Romanomilaua a Slavamilaua, a vares un **asiadialectu**, mita vares plu conservativ a ten c'to iko lawadialectu'o slova. Por differentia zai neslapenxiaka, dua eta dialecta var idu es trediferenti. C'to, dua dialecta myo sir es dialectu un. Por eta, Eurodialectu idu pluleule evolvo, a mujinakak Asiadialectu'o idu nepluo iko lexico'o ogar Globasa.
+
+Eta pisatva'k explico sole Eurodialectu, maar milao anki influentia Asiadialectu'o zai Eurodialectu.
+
 
 # Grammaro
 
