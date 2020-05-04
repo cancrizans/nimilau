@@ -737,5 +737,12 @@
 		"it":"sangue",
 		"es":"sangre",
 		"em":"🩸"
+	},
+	"demo":{
+		"var":"maar",
+		"tags":["AS"]
+	},
+	"sisa":{
+		"it":"sei (6)"
 	}
 }

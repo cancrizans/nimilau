@@ -2,15 +2,15 @@
 title: Nimilau - jiximak'o Grammaro a Slovolisto
 ...
 
-Salo! Mi cancrizans es. Eta pisatva es por Eurodialectu Nimilau'o. Eta es por **jiximak** (mak jixi => ditactici) - to eta trekali milau nova mujinakak kan idu jixi **facile**.
+Salo! Mi cancrizans es. Eta pisatva es por Eurodialectu Nimilau'o. Eta es por **jiximak** (mak jixi => ditactici) - to eta trekali milau nova mujinarak kan idu jixi **facile**.
 
 Eta es sole por Nimilau'o Eurodialectu, a noki numer'o influentia asiadialecto'o si'zai. A, eta dokument es **sole observi, ne por prescrivo**.
 
 ## Nimilau? Mita?
 
-**Nimilau** (nomen sio anki **Milauni'o**, **Glossani**, **Globamilau**) es un milau mujinamakva (*conlang*) mita varmak zai un Discord'o server. Si varmak como un Pijin: mujinaka ogar nemesma gua var prohibo anglomilau milao'o, a myosiak si milao zai un novo milau.
+**Nimilau** (nomen sio anki **Milauni'o**, **Glossani**, **Globamilau**) es un milau mujinamakva (*conlang*) mita varmak zai un Discord'o server. Si varmak como un Pijin: mujinara ogar nemesma gua var prohibo anglomilau milao'o, a myosiak si milao zai un novo milau.
 
-Vares un'o'xia un **lawadialectu**, mita vares tre influento ogar mujinamakvamilau auxiliar (*auxlang*) "Globasa". Ogar eta, vares un **eurodialectu**, mita trepluspide var evolvo a var nepluo lexico ogar Globasa, a vares influento plu ogar Romanomilaua a Slavamilaua, a vares un **asiadialectu**, mita vares plu conservativ a ten c'to iko lawadialectu'o slova. Por differentia zai neslapenxiaka, dua eta dialecta var idu es trediferenti. C'to, dua dialecta myo sir es dialectu un. Por eta, Eurodialectu idu pluleule evolvo, a mujinakak Asiadialectu'o idu nepluo iko lexico'o ogar Globasa.
+Vares un'o'xia un **lawadialectu**, mita vares tre influento ogar mujinamakvamilau auxiliar (*auxlang*) "Globasa". Ogar eta, vares un **eurodialectu**, mita trepluspide var evolvo a var nepluo lexico ogar Globasa, a vares influento plu ogar Romanomilaua a Slavamilaua, a vares un **asiadialectu**, mita vares plu conservativ a ten c'to iko lawadialectu'o slova. Por differentia zai neslapenxiaka, dua eta dialecta var idu es trediferenti. C'to, dua dialecta myo sir es dialectu un. Por eta, Eurodialectu idu pluleule evolvo, a mujinarak Asiadialectu'o idu nepluo iko lexico'o ogar Globasa.
 
 Eta pisatva'k explico sole Eurodialectu, maar milao anki influentia Asiadialectu'o zai Eurodialectu.
 
@@ -21,18 +21,20 @@ Nimilau un milau por oki parti analitici, maar elementa agglutinativ anki ten'si
 
 Distincti eta milauk ten classa slova'o: substantiva, verba, adjectiva, pronoma, adverba conyuntia, a utra.
 
-Frasa'zai, orden libri Nimilau'o, generale. SVO pluyao eurodialecto, SOV asiadialecto; telos mujinakak pluyao OVS u OSV. Orden es **treplu compleksi** mit auxiliar verba (esempiu: AUX S VERB O). Fikrmik can nik sole c'to milao mita Nimilau ten **orden libri**.
-
+Frasa'zai, orden libri Nimilau'o, generale. SVO pluyao eurodialecto, SOV asiadialecto; telos mujinarak pluyao OVS u OSV. Orden es **treplu compleksi** mit auxiliar verba (esempiu: AUX S VERB O). Fikrmik can nik sole c'to milao mita Nimilau ten **orden libri**.
+s
 ## Substantiva
 
-Generale, Substantiva kan es zai "-C", "-u", "-o", "-a". Substantiva sik inflecto por sole *numero*. Plurali marco sik "-a", u se si es "-a" to "-aka". Esempia:
+Generale, Substantiva kan es zai "-C", "-u", "-o", "-a". Substantiva sik inflecto por sole *numero*. Plurali marco sik "-a", u se si es "-a" to "-ara" (vares "-aka"). Esempia:
 
 Singulari	Plurali
 ---------	-------
 un slovo 	dua slova
 un milau 	dua milaua
-un mujina 	dua mujinaka
+un mujina 	dua mujinara
 un myu		dua myua
+
+Plural zai "-aka" (esempiu: "mujinara") nes c'to por ne ambiguo mit suffikso "-k" ergativ'o.
 
 ## Pronoma
 
@@ -48,6 +50,8 @@ Por mita 		Pronoma
 3'o plur 		sia, sie
 interrogativ	mita
 relativ 		mita
+
+## Prepositia a Suffiksa
 
 Substantiva a Pronoma kan decorar tik mit **prepositia** a **suffiksa** (agglutinativ). Suffixa kan tik marco mit apostrofo ' por facile jiximak. Telos slova kan us tik como prepositia u suffiksa. Eta es:
 
@@ -74,7 +78,7 @@ Agente transitiv, ergativ	-						-k\*
 * Ti shim mik -> Ti sir es shimi☠️.
 * Mik shim -> Mi **ne** sir es shimi. Utra mujina sir es shimi. Mik idu 🔪🔪.
 
-Simile neambiguo kan mak mit "-m" por accusativ. Maar observomik mita neus eta mujinakak.
+Simile neambiguo kan mak mit "-m" por accusativ. Maar observomik mita neus eta mujinarak.
 
 ### Passiv?
 
@@ -129,10 +133,14 @@ Verba ne ten inflectia.
 
 Telo verba kan us como transitiv u intransitiv, esempia: shim ("morire / uccidere"), jiximak ("imparare / insegnare").
 
-Subjecto **a** objecto mita es un pronomo kan verbozai aglutino. Eta es sole zai sir verbo'o, ne var verbo'. Esempia:
+Subiecto mita es un pronomo kan verbozai aglutino. Eta es sole zai sir verbo'o, ne var verbo'. Esempia:
 
+* slapenmi = slapen + mi
 * fikrmik = fikr + mi(k)
 * mi(k)fikr <- ne, eta ne us siak. "Mi(k) fikr" us siak.
+
+Netrexia, kan pronomo obiecto aglutino, anki sir verbo'o:
+
 * saloti = salo + ti(m)
 
 Verbo'o **xia** ("tempo, tiempo") marco tik mit adverba:
@@ -148,6 +156,43 @@ A slovo "idu" ("andare, aller, ir") es un verbo auxiliar mita kan us tik por "fu
 * Mi var shim -> Mi es shimi c'to
 * Mi sir shim -> Omni sir es shimi un dyauzai... normale
 * Mi idu shim -> Mi idu sir shimi c'to! Ayuda!
+
+Adverbo xia'o kan "aglutino" anki verbozai. Esempiu:
+
+* var fikr mik -> varfikrmik
+* mi sir shim -> mi sirshim
+
+A "idu" anki, maar es un auxiliar, to eta orden es plu trexia:
+
+* mi idu shim -> idumi shim --(kanes)--> idumishim
+
+
+### Auksiliara
+
+Verba auksiliara u mita kanes auksiliara es:
+
+* idu
+* kan (kann)
+* wollen
+* suldo (debe)
+
+Mit auksiliar a un verbo a un pronomo subiecto, trexia orden slova'o es:
+
+(AUX) (SUBJ) (VERBO)
+
+Esempia:
+
+* wollen mik taber = wollenmik taber =?= wollenmiktaber
+* suldo si idu = suldosi idu
+
+Maar anki teloxia us siak
+
+(SUBJ) (AUX) (VERBO)
+
+mit agglutinio auksiliar'o a verbo'o:
+
+* mik wollen taber = mik wollentaber
+* si suldo ido = si suldoido
 
 ## Negativ
 
