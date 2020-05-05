@@ -798,5 +798,23 @@
 	"xiwubiblo":{
 		"it":"libro di ricette, ricettario",
 
+	},
+
+	"nistel":{
+		"it":"sole",
+		"es":"sol",
+		"em":"☀️"
+	},
+
+	"hina":{
+		"it":"luna",
+		"es":"luna",
+		"em":"🌙"
+	},
+
+	"stel":{
+		"it":"stella",
+		"es":"estrella",
+		"em":"⭐"
 	}
 }
