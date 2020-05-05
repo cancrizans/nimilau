@@ -4,7 +4,7 @@ title: Nimilau - jiximak'o Grammaro a Slovolisto
 
 Salo! Mi cancrizans es. Eta pisatva es por Eurodialectu Nimilau'o. Eta es por **jiximak** (mak jixi => ditactici) - to eta trekali milau nova mujinarak kan idu jixi **facile**.
 
-Eta es sole por Nimilau'o Eurodialectu, a noki numer'o influentia asiadialecto'o si'zai. A, eta dokument es **sole observi, ne por prescrivo**.
+Eta es sole por Nimilau'o Eurodialectu, a niko numer influentia'o asiadialecto'o si'zai. A, eta dokument es **sole observi, ne por prescrivo**.
 
 ## Nimilau? Mita?
 
@@ -17,7 +17,7 @@ Eta pisatva'k explico sole Eurodialectu, maar milao anki influentia Asiadialectu
 
 # Grammaro
 
-Nimilau un milau por oki parti analitici, maar elementa agglutinativ anki ten'sik.
+Nimilau un milau por iko parti analitici, maar elementa agglutinativ anki ten'sik.
 
 Distincti eta milauk ten classa slova'o: substantiva, verba, adjectiva, pronoma, adverba conyuntia, a utra.
 
@@ -100,7 +100,7 @@ Maar, anki kan tik mak "incorporatiu substantivo'o":
 
 * mujinayappe
 
-**ne mit** "'o". Eta es noki differenti: "mujinayappe"zai mujina es plu "generali". Kan es un "origeno" u un "associatiu". Plu esempia:
+**ne mit** "'o". Eta es niko differenti: "mujinayappe"zai mujina es plu "generali". Kan es un "origeno" u un "associatiu". Plu esempia:
 
 * Nimilau ~=/= Milau ni'o
 * Bazavoda ~=/= Voda baza'o
@@ -109,16 +109,16 @@ Maar, anki kan tik mak "incorporatiu substantivo'o":
 
 Adiectiva kan es zai "-i", "-C", "-o". Adiectiva kan us var a sir substantivo'o:
 
-* yappe oki
-* oki yappe
+* yappe iko
+* iko yappe
 
 Adiectiva trexia **ne** ten marco plural'o "-a":
 
-un oki yappe -> dua oki yappa
+un iko yappe -> dua iko yappa
 
 maar rare kan ten siak si
 
-dua okia yappa (rare).
+dua ikoa/ika yappa (rare).
 
 Adiectiva kan us tik como substantivo, trexia mit u ne'mit suffixso "-o", maar usu nes consistenti. Esempiu:
 
@@ -237,12 +237,14 @@ Copula ten telos contractia:
 
 ## Morfologo
 
-Nimilau ten oki morfologo por derivar. 
+Nimilau ten iko morfologo por derivar. 
 
 * "Ne-" / "n-" es por inversiu: "iko"-> "niko", "vot" -> "nevot".
 * "Tre-" por intensifico: "trekali", "treda", etc.
 * "-u" marco un instrumento por mak un verbo: "myo" -> "myu", "fikr" -> "fikiru"
 * "-e" mak adverba trexia. "leul" -> "leule"
+* "-i" mak adiectiva telos xia.
+* "-yen" mak nuyen substantivo'o ("femminile"). Esempiu: "koku" -> "kokuyen"
 
 Nimilau anki ten "incorporatiu substantivo'o" mita var explico mik.
 

@@ -369,6 +369,10 @@
 		"it":"re",
 		"es":"rey"
 	},
+	"kokuyen":{
+		"it":"regina",
+		"es":"reina"
+	},
 	"pisat":{
 		"it":"scrivere",
 		"es":"escrivir"
@@ -744,5 +748,55 @@
 	},
 	"sisa":{
 		"it":"sei (6)"
+	},
+
+	"boktori":{
+		"it":"gallina, pollo"
+	},
+
+	"bok":{
+		"var":"boktori",
+		"em":"🐔"
+	},
+
+	"bokmaru":{
+		"it":"uovo",
+		"es":"huevo",
+		"em":"🥚"
+	},
+
+	"xiwumak":{
+		"it":"cucinare",
+		"es":"cocinar"
+	},
+
+	"to":{
+		"it":"quindi, perciò, allora",
+		"es":"por eso"
+	},
+
+	"treneyaomak":{
+		"it":"lottare, combattere, fare guerra"
+	},
+
+	"treneyaomakva":{
+		"it":"guerra, battaglia",
+		"es":"guerra"
+	},
+
+	"biblo":{
+		"it":"libro",
+		"em":"📘"
+
+	},
+
+	"xiwupisatva":{
+		"it":"ricetta",
+		"es":"receta"
+	},
+
+	"xiwubiblo":{
+		"it":"libro di ricette, ricettario",
+
 	}
 }
