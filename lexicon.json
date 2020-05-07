@@ -209,18 +209,28 @@
 
 
 	"uwa":{
-		"it":"terra, terreno, pianeta terra",
-		"es":"tierra"
+		"it":"terra, terreno, pianeta terra, sotto, in basso (relazionale)",
+		"es":"tierra",
+		"em":"🌎"
 	},
 	"hawa":{
-		"it":"cielo",
-		"es":"ciel"
+		"it":"cielo, sopra (relazionale)",
+		"es":"ciel, sobre (relacional)"
 	},
 	"mujina":{
-		"it":"persona"
+		"it":"persona, oppure uomo (maschile)",
+		"em":"🧑"
 	},
 
-	"omo":"(UNC) person, human",
+	"omo":{
+		"var":"mujina",
+		"tags":["RA"]
+	},
+
+	"mujna":{
+		"var":"mujina"
+	},
+
 	"plu":{
 		"it":"più, di più",
 		"es":"más"
@@ -379,7 +389,8 @@
 	},
 	"pisatu":{
 		"it":"matita",
-		"es":"lapis"
+		"es":"lapis",
+		"em":"✏️"
 	},
 	"pisatva":{
 		"it":"documento, scrittura, frase scritta",
@@ -821,5 +832,47 @@
 	"suki":{
 		"var":"yao",
 		"tags":["AS"]
+	},
+
+	"kaa":{
+		"it":"? avatar, immagine",
+		"tags":["AS"]
+	},
+
+	"jix":{
+		"var":"jixi"
+	},
+
+	"mujnamakva":{
+		"it":"artificiale, fatto dall'uomo",
+		"es":"artificial"
+	},
+
+	"mujnamakvamilau":{
+		"it":"lingua artificiale",
+		"es":"idioma artificial"
+	},
+
+	"ngwi":{
+		"it":"simile, uguale, stesso",
+		"es":"mesmo",
+		"tags":["AS"]
+	},
+
+	"nengwi":{
+		"it":"differente, diverso",
+		"es":"diferente"
+	},
+
+	"mesmo":{
+		"var":"ngwi"
+	},
+	"nemesmo":{
+		"var":"nengwi"
+	},
+
+	"nengwio":{
+		"it":"differenza",
+		"es":"diferencia"
 	}
 }

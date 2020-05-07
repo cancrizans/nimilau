@@ -8,9 +8,9 @@ Eta es sole por Nimilau'o Eurodialectu, a niko numer influentia'o asiadialecto'o
 
 ## Nimilau? Mita?
 
-**Nimilau** (nomen sio anki **Milauni'o**, **Glossani**, **Globamilau**) es un milau mujinamakva (*conlang*) mita varmak zai un Discord'o server. Si varmak como un Pijin: mujinara ogar nemesma gua var prohibo anglomilau milao'o, a myosiak si milao zai un novo milau.
+**Nimilau** (nomen sio anki **Milauni'o**, **Glossani**, **Globamilau**) es un milau mujinamakva (*conlang*) mita varmak zai un Discord'o server. Si varmak como un Pijin: mujinara ogar nengwi gua var prohibo anglomilau milao'o, a myosiak si milao zai un novo milau.
 
-Vares un'o'xia un **lawadialectu**, mita vares tre influento ogar mujinamakvamilau auxiliar (*auxlang*) "Globasa". Ogar eta, vares un **eurodialectu**, mita trepluspide var evolvo a var nepluo lexico ogar Globasa, a vares influento plu ogar Romanomilaua a Slavamilaua, a vares un **asiadialectu**, mita vares plu conservativ a ten c'to iko lawadialectu'o slova. Por differentia zai neslapenxiaka, dua eta dialecta var idu es trediferenti. C'to, dua dialecta myo sir es dialectu un. Por eta, Eurodialectu idu pluleule evolvo, a mujinarak Asiadialectu'o idu nepluo iko lexico'o ogar Globasa.
+Vares un'o'xia un **lawadialectu**, mita vares tre influento ogar mujinamakvamilau auxiliar (*auxlang*) "Globasa". Ogar eta, vares un **eurodialectu**, mita trepluspide var evolvo a var nepluo lexico ogar Globasa, a vares influento plu ogar Romanomilaua a Slavamilaua, a vares un **asiadialectu**, mita vares plu conservativ a ten c'to iko lawadialectu'o slova. Por nengwia zai neslapenxiaka, dua eta dialecta var idu es trenengwi. C'to, dua dialecta myo sir es dialectu un. Por eta, Eurodialectu idu pluleule evolvo, a mujinarak Asiadialectu'o idu nepluo iko lexico'o ogar Globasa.
 
 Eta pisatva'k explico sole Eurodialectu, maar milao anki influentia Asiadialectu'o zai Eurodialectu.
 
@@ -68,7 +68,7 @@ Agente transitiv, ergativ	-						-k\*
 * zai casa
 * casazai ~ casa'zai
 
-\*Es plubono "de" u "ò" **ne** us, kiel asiadialectu us eta slova tre differente. Us "'o".
+\*Es plubono "de" u "ò" **ne** us, kiel asiadialectu us eta slova tre nengwi. Us "'o".
 
 \*"-m" ne us siak, u us siak trerare, var observo'mik.
 
@@ -100,7 +100,7 @@ Maar, anki kan tik mak "incorporatiu substantivo'o":
 
 * mujinayappe
 
-**ne mit** "'o". Eta es niko differenti: "mujinayappe"zai mujina es plu "generali". Kan es un "origeno" u un "associatiu". Plu esempia:
+**ne mit** "'o". Eta es niko nengwi: "mujinayappe"zai mujina es plu "generali". Kan es un "origeno" u un "associatiu". Plu esempia:
 
 * Nimilau ~=/= Milau ni'o
 * Bazavoda ~=/= Voda baza'o
@@ -245,6 +245,7 @@ Nimilau ten iko morfologo por derivar.
 * "-e" mak adverba trexia. "leul" -> "leule"
 * "-i" mak adiectiva telos xia.
 * "-yen" mak nuyen substantivo'o ("femminile"). Esempiu: "koku" -> "kokuyen"
+* "-kut" mak ne'nuyen substantivo'o ("maschile").
 
 Nimilau anki ten "incorporatiu substantivo'o" mita var explico mik.
 
