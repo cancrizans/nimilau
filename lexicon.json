@@ -368,7 +368,11 @@
 		"it":"velocemente"
 	},
 
-	"ruka":"hand (UNC) plural is unclear...",
+	"ruka":{
+		"it":"mano",
+		"es":"mano",
+		"em":"✋"
+	},
 	"tori":{
 		"it":"uccello",
 		"es":"pájaro",
@@ -875,4 +879,6 @@
 		"it":"differenza",
 		"es":"diferencia"
 	}
+
+
 }
