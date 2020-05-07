@@ -796,7 +796,7 @@
 	},
 
 	"xiwubiblo":{
-		"it":"libro di ricette, ricettario",
+		"it":"libro di ricette, ricettario"
 
 	},
 
@@ -816,5 +816,10 @@
 		"it":"stella",
 		"es":"estrella",
 		"em":"⭐"
+	},
+
+	"suki":{
+		"var":"yao",
+		"tags":["AS"]
 	}
 }
