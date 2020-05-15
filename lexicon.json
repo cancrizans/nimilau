@@ -167,6 +167,9 @@
 	"bono":{
 		"var":"dobro"
 	},
+	"bon":{
+		"var":"dobro"
+	},
 	"tre":{
 		"it":"molto",
 		"es":"muy"
@@ -878,7 +881,63 @@
 	"nengwio":{
 		"it":"differenza",
 		"es":"diferencia"
+	},
+
+	"vino":{
+		"it":"vino"
+	},
+
+	"nikovoda":{
+		"it":"vodka",
+		"es":"vodka"
+
+	},
+
+	"rusvoda":{
+		"var":"nikovoda"
+	},
+
+	"wawavoda":{
+		"tags":["RA"],
+		"it":"alcol"
+	},
+
+	"gei":{
+		"it":"regalare",
+		"es":"regalar"
+	},
+
+	"goklok":{
+		"it":"angolo (ad esempio di una stanza)"
+	},
+
+	"ng'":{
+		"var":"anki",
+		"tags":["AS"]
+	},
+
+	"ex":{
+		"var":"es",
+		"tags":["AS"]
+	},
+
+	"ng'":{
+		"var":"anki",
+		"tags":["AS"]
+	},
+
+	"pai":{
+		"it": "bottiglia",
+		"es":"botella"
+	},
+
+	"mtai":{
+		"it":"rotto, spezzato",
+		"es":"rompido / roto"
 	}
+
+
+
 
 
 }
